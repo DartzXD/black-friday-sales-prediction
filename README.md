@@ -1,2 +1,3 @@
-# black-friday-sales-prediction
-Utilizing various Regression models in Black Friday Sales
+# Black Friday Sales
+## Overview
+The beginning of the Christmas shopping festival in the United States is marked by Black Friday. On Black Friday, shops attract buyers by offering discounts and deals across various product categories. The product categories include electronics, clothing, food, and kitchen appliances. Numerous academics have conducted research to forecast sales. The analysis of this data enables us to provide discounts on various product lines. Four models were used to analyze and forecast sales. The Black Friday Sales Dataset, available on Kaggle, was used for analysis and prediction. Polynomial, Bayesian ridge, ElasticNet regression, and Artificial Neural Networks (ANN) are the models used for prediction. The root mean squared error (RMSE) is a performance evaluation metric used to evaluate a system's accuracy.
